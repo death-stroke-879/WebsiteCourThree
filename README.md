@@ -1,1 +1,2 @@
-# WebsiteCourThree
+# WebsiteCourThree <br>
+# THIS IS A SAMPLE ONLINE COURSES WEBSITE PROVIDED BY AN IT COMPANY.
